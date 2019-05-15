@@ -1,36 +1,3 @@
-
-
-# Low-Level Intent Predictor Simulation
-
-A dynamical systems approach to human intent recognition based on the hands motion. 
-
-## Content
-```
-low_level_intent_predictor_simulator
-│    README.md
-│    CMakeLists.txt
-│
-└─── doc
-│	problem_formulation.pdf
-│
-└─── human_task_models
-│       hand_left_model.txt
-│       hand_right_model.txt
-│       model_template.txt
-│    
-└─── test
-│       test.txt
-│       test_template.txt
-│    
-└─── build
-│	│    
-│	└─── output
-│    
-└─── src
-│       low_level_intent_predictor_simulation.cpp
-│       LowLevelIntentPredictorSimulator.cpp
-
-
 # Low-Level Intent Predictor Simulation
 
 A dynamical systems approach to human intent recognition based on the hands motion. 
