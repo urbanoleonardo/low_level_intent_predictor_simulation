@@ -1,0 +1,6 @@
+number_of_components_
+state_dimension_
+priors_
+mus_
+sigmas_
+As_
